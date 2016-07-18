@@ -287,7 +287,7 @@ for(i in 1:61){
 }
 
 
-mdn2<-data.frame(date=uniq,median=md2,mean=mn2) ## mdn és una data.frame que conté median i mean.
+mdn2<-data.frame(date=uniq,median=md2,mean=mn2) ## mdn Ã©s una data.frame que contÃ© median i mean.
 
 mdn2
 ```
