@@ -1,6 +1,6 @@
 ---
 title: "Activity monitoring"
-output: html_document
+output: md_document
 ---
 
 ## Loading and preprocessing the data
